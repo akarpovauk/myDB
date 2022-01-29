@@ -121,7 +121,5 @@ const personalMovieDB = {
     }
 };
 
-personalMovieDB.writeYourGenres();
-
 
 
